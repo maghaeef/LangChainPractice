@@ -1,0 +1,9 @@
+notebook
+langchain
+openai
+python-dotenv
+streamlit
+numexpr
+wikipedia
+google-search-results
+tiktoken

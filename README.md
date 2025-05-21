@@ -4,7 +4,7 @@ Implementing LangChain agents
 
 ## Overview
 
-This repo is a hands-on exploration of [LangChain](https://github.com/langchain/langchain), demonstrating how to:
+This repo is a hands-on exploration of [LangChain](https://www.langchain.com/), demonstrating how to:
 
 - Configure and call OpenAI LLMs
 - Build prompt templates and chains
